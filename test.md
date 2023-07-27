@@ -9,3 +9,4 @@ new python code
 ther is info from master
 
 i am young junior
+from vetka2
