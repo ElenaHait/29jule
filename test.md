@@ -9,3 +9,4 @@ new python code
 print true
 
 i am young junior
+from vetka2
