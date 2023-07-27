@@ -6,6 +6,6 @@ some python function
 
 new python code
 
-print true
+ther is info from master
 
 i am young junior
