@@ -6,16 +6,9 @@ some python function
 
 new python code
 
-ther is info from master
+print true
 
 i am young junior
 from vetka2
 there is info from master
-from vetka2
-
-i am young junior
-from vetka2
-there is info from master
-i am young junior
-from vetka2
 from vetka2
